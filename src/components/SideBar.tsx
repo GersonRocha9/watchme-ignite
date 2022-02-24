@@ -1,3 +1,1 @@
-export function SideBar() {
-  // Complete aqui
-}
+export function SideBar() {}
